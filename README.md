@@ -1,4 +1,4 @@
-Hi there, I'm Ahmed Essam 👋
+Hi there,
 I'm Ahmed Essam, a passionate Machine Learning and Deep Learning student, with a keen interest in transforming data into meaningful insights and innovative solutions. My journey in the world of AI began with a fascination for how machines can learn and evolve, and it has since grown into a dedicated pursuit of knowledge and skills in this dynamic field.
 
 🚀 Ambitions & Goals
